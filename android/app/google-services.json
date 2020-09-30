@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "19302314687",
+    "firebase_url": "https://onthego-d2cad.firebaseio.com",
+    "project_id": "onthego-d2cad",
+    "storage_bucket": "onthego-d2cad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19302314687:android:60efc6691701b0a0d68c0a",
+        "android_client_info": {
+          "package_name": "com.sepm.onthego"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19302314687-f8epi03uvkj33sbeh5q3mfpqv57d2iha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sepm.onthego",
+            "certificate_hash": "688ab6be5752f1612e19e9789cd3831b7cd87e45"
+          }
+        },
+        {
+          "client_id": "19302314687-kl9uk3u2rrsk5sjrug87s4qidmf43h3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBJodJw9CE47AzVoD5AdrjLfqUkDoUuIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19302314687-kl9uk3u2rrsk5sjrug87s4qidmf43h3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
